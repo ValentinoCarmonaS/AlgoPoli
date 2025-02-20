@@ -1,7 +1,11 @@
 # TP3-Buchwald-Grafos-y-la-red-de-delincuencia
 
-Trabajo Práctico 3
-==================
+Trabajo Práctico número 3 de la materia Algoritmos y Programación II de FIUBA
+
+* **Integrante 1** - [Carmona, Valentino](https://github.com/ValentinoCarmonaS)
+* **Integrante 2** - [Dundic, Matias](https://github.com/Ellukemati)
+
+Corrector: **Ezequiel Genender** & **Martín Buchwald**
 
 ## Introducción
 
